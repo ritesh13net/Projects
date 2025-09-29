@@ -1,13 +1,3 @@
-Project: Remote File Downloader using Paramiko
+Project: Remote File Downloader using Paramiko library
 
-This Python project allows you to securely connect to a remote server via SSH and download files using SFTP. It uses the paramiko library for SSH/SFTP operations and sys for handling command-line arguments. The script checks if the file exists on the remote server before downloading and handles errors gracefully.
-
-🔹 Features:
-Connects to remote servers via SSH
-Validates file existence using remote ls command
-Downloads files securely using SFTP
-Accepts command-line arguments (hostname, port, username, password, remote file path, local file path)
-Includes error handling and ensures proper connection closure
-
-
-
+This script uses the Paramiko library to connect to a remote server over SSH. It first verifies if the file exists on the remote server using an ls command. If the file exists, it opens an SFTP session and downloads the file to the local machine. The script also uses the sys module to take command-line arguments for hostname, port, username, password, remote file path, and local file path. Error handling is included, and the SSH connection is always closed at the end.
