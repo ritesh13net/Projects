@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e8b6c7e436a1437783309872a8d64896/artifacts
+end_time: 1727690258358
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8b6c7e436a1437783309872a8d64896
+run_name: polite-sloth-43
+run_uuid: e8b6c7e436a1437783309872a8d64896
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727690196965
+status: 3
+tags: []
+user_id: win10
