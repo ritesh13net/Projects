@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/codespaces-blank/datascienceproject/mlruns/0/8f83bd670ec94245a8bfc2a00a6a5bcb/artifacts
+end_time: 1761811205555
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f83bd670ec94245a8bfc2a00a6a5bcb
+run_name: casual-cod-732
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761811201821
+status: 3
+tags: []
+user_id: codespace
